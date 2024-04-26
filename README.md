@@ -1,1 +1,1 @@
-The different versions conatins themes and colors (no theme settings)
+The different versions conatins themes and colors (no theme settings for now)
