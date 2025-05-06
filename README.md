@@ -8,6 +8,6 @@ This is an open source project created by me and Liebeg. You're welcome to use t
 
 We are currently not actively developing this project, but if you're interested in continuing development, feel free to fork it and create your own version. We’d love to see it grow and evolve in your hands, as long as credit is given to the original creators. You can contact us at:
 
-mailto:Gamingaxe@hotmail.com
+Gamingaxe@hotmail.com
 
-mailto:mail@liebeg.eu
+mail@liebeg.eu
