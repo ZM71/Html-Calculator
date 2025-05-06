@@ -10,6 +10,7 @@ We are currently not actively developing this project, but if you're interested 
 Credits
 
 Liebeg: Lead Developer
+
 GamingAxe: Design
 
 Disclaimer:
